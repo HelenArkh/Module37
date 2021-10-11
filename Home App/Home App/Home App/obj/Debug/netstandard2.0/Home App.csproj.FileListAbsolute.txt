@@ -1,0 +1,22 @@
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\bin\Debug\netstandard2.0\Home App.deps.json
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\bin\Debug\netstandard2.0\Home App.dll
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\bin\Debug\netstandard2.0\ref\Home App.dll
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\bin\Debug\netstandard2.0\Home App.pdb
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.AssemblyInfo.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.dll
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\ref\Home App.dll
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Home App.pdb
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\MainPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\RegisterPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\RoomsPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\DevicesPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\ClimatePage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\AboutPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\GridPage.xaml.g.cs
+C:\Users\alena\source\repos\Module37\Home App\Home App\Home App\obj\Debug\netstandard2.0\Pages\MergeGridPage.xaml.g.cs
